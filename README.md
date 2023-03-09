@@ -4,8 +4,6 @@
 
 <p style="text-align:center",font-size:200px>  吴锦泽 周子荀 陈财源</p>
 
-[TOC]
-
 # MRI Graphical Classification Interface
 
 ## Abstract
