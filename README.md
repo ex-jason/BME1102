@@ -1,9 +1,3 @@
-# Project proposal report
-
-## Group Members
-
-<p style="text-align:center",font-size:200px>  吴锦泽 周子荀 陈财源</p>
-
 # MRI Graphical Classification Interface
 
 ## Abstract
@@ -71,12 +65,3 @@ The ParaVision interface is shown in the figure below.
 ![ParaVision界面](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230226192012813.png)
 
 This project will eventually realize most of this functions in the interface, including the display of various parameters, view axial plane, coronal plane and sagittal plane slices, etc., and realize the selection and switching of data positions.
-
-## Reference
-
-[如何用Python查看nii.gz的各种图像参数](https://blog.csdn.net/u014264373/article/details/119545255)
-
-[MRI脑影像分析](https://blog.csdn.net/sinat_35907936/article/details/118862614)
-
-[ParaVision 360](https://www.bruker.com/zh/products-and-solutions/preclinical-imaging/paravision-360.html)
-
