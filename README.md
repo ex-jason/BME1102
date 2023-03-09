@@ -62,6 +62,6 @@ Various GUI applications can be created using Tkinter, such as window applicatio
 
 The ParaVision interface is shown in the figure below.
 
-![ParaVision界面](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230226192012813.png)
+![ParaVision](https://raw.githubusercontent.com/ex-jason/BME1102/main/image-20230226192012813.png)
 
 This project will eventually realize most of this functions in the interface, including the display of various parameters, view axial plane, coronal plane and sagittal plane slices, etc., and realize the selection and switching of data positions.
